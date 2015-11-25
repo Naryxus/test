@@ -1,6 +1,8 @@
-Dies ist ein Test.
+﻿Dies ist ein Test.
 
 Eine zweite Zeile!
+
+Eine tolle dritte zeile!
 
 Änderung des Testdokuments im Master nach Erstellen des zweiten Branchs.
 
